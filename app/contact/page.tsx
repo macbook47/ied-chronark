@@ -6,19 +6,19 @@ import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Linkedin size={20} />,
+		icon: <Linkedin size={18} />,
 		href: "https://linkedin.com/in/faizudin-al-hamawi-a1939349",
 		label: "Linkedin",
 		handle: "Faizudin Al Hamawi",
 	},
 	{
-		icon: <Mail size={20} />,
+		icon: <Mail size={18} />,
 		href: "mailto:faizudin@work.bri.co.id",
 		label: "Email",
 		handle: "faizudin@work.bri.co.id",
 	},
 	{
-		icon: <Github size={20} />,
+		icon: <Github size={18} />,
 		href: "https://github.com/macbook47",
 		label: "Github",
 		handle: "macbook47",
