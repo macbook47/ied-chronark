@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
-import { Analytics } from "@vercel/analytics/react"
 
 const navigation = [
   { name: "Projects", href: "https://medium.com/@macbook.47" },
