@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   },
   description: "build using vercel template chronark",
   openGraph: {
-    title: "chronark.com",
+    title: "eid aphip uhuy",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "eid mubarrak from aphip uhuy",
     url: "https://ied-chronark.vercel.app/",
     siteName: "ied-chronark.vercel.app",
     images: [
